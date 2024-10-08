@@ -40,6 +40,7 @@ public class GitServlet extends HttpServlet {
 		pw.println("<body>");
 		pw.println("<h3>タンタンタ～コピ！</h3>");
 		pw.println("<h3>Fetch動作確認用</h3>");
+		pw.println("<h3>Pull動作確認用</h3>");
 		pw.println("</body></html>");
 
 	}
